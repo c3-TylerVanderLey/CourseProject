@@ -1,3 +1,5 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Building an application that performs sentiment analysis on post-game threads from the college football subreddit to assess progression fan sentiment over the course of a season.
+
+Please see ProjectProposal.pdf for my Project Proposal.
