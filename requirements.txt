@@ -1,0 +1,5 @@
+praw >= 7.6.0
+nltk >= 3.7
+numpy >= 1.21.1
+Flask >= 2.2.2
+matplotlib >= 3.4.3
