@@ -36,5 +36,9 @@ In order to spin up the application without Docker, please follow these steps:
 2. Run `python app.py` or `python3 app.py` in the command line.
 3. Go to `http://127.0.0.1:5000/` in browser.
 
+## Demo Video
+Demo video can be found here: https://uofi.box.com/s/iu3i5iemmg7djk3qm0ogveuw6d6y2hhp
+Please feel free to watch the video directly at the link or download it to view locally.
+
 ## Self-Evaluation
 I have indeed completed all aspects of my project that I originally intended to. Overall, I am quite pleased with the outcome of my project, as the resulting application is intuitive to use and clearly displays how fan sentiment shifted across the season. Moreover, the actual sentiment analysis results generally seem to match with what I would expect. For instance, lower scores are usually associated with losses and higher scores typically correspond to wins, thus illustrating the successful performance of the sentiment analyzer.
