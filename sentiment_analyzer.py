@@ -18,7 +18,7 @@ class SentimentAnalyzer:
       pass
     else:
       ssl._create_default_https_context = _create_unverified_https_context
-      nltk.download('vader_lexicon')
+    nltk.download('vader_lexicon')
 
     self.sentiment_analyzer = SentimentIntensityAnalyzer()
   
